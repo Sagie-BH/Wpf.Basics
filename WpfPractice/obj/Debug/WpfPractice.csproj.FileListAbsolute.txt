@@ -1,0 +1,16 @@
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\bin\Debug\WpfPractice.exe.config
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\bin\Debug\WpfPractice.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\bin\Debug\WpfPractice.pdb
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\MainWindow.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\App.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.lref
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\MainWindow.baml
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.g.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.Properties.Resources.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\WpfPractice.pdb
+C:\Users\Sagie\source\repos\WpfCommands\WpfPractice\obj\Debug\GeneratedInternalTypeHelper.g.cs

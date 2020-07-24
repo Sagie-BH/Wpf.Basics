@@ -1,0 +1,16 @@
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\bin\Debug\WpfMVVMDialogs.exe.config
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\bin\Debug\WpfMVVMDialogs.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\bin\Debug\WpfMVVMDialogs.pdb
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\MainWindow.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\App.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs_MarkupCompile.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs_MarkupCompile.lref
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\MainWindow.baml
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.g.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.Properties.Resources.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfMVVMDialogs\obj\Debug\WpfMVVMDialogs.pdb

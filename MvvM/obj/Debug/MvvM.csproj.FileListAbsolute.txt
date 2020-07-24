@@ -1,0 +1,15 @@
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\View\MainWindow.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\App.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM_MarkupCompile.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM_MarkupCompile.lref
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\bin\Debug\MvvM.exe.config
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\bin\Debug\MvvM.exe
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\bin\Debug\MvvM.pdb
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\View\MainWindow.baml
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.g.resources
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.Properties.Resources.resources
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.exe
+C:\Users\Sagie\source\repos\WpfCommands\MvvM\obj\Debug\MvvM.pdb

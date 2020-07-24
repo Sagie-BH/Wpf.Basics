@@ -1,0 +1,15 @@
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\MainWindow.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\App.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand_MarkupCompile.cache
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand_MarkupCompile.lref
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\bin\Debug\RelayCommand.exe.config
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\bin\Debug\RelayCommand.exe
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\bin\Debug\RelayCommand.pdb
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\MainWindow.baml
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.g.resources
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.Properties.Resources.resources
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.exe
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.pdb
+C:\Users\Sagie\source\repos\WpfCommands\RelayCommand\obj\Debug\RelayCommand.csprojAssemblyReference.cache

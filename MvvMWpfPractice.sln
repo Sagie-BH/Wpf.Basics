@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfICommand", "WpfPractice\WpfICommand.csproj", "{B59DD6FF-1B36-4F57-BD18-E2EF4BAF3E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfINotify", "WpfINotify\WpfINotify.csproj", "{0EDF4786-CD96-42E3-A44D-9254F32B959C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelayCommand", "RelayCommand\RelayCommand.csproj", "{11FA9BC8-CF50-440D-B7C7-942C25C621D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDataErrorInfo", "IDataErrorInfo\IDataErrorInfo.csproj", "{B236E051-C911-4940-BCD5-2756E19D5580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMVVMDialogs", "WpfMVVMDialogs\WpfMVVMDialogs.csproj", "{DEFC13AD-9E1B-44CB-B72F-7A6EB3B2380A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{78FCB3CF-6AC1-40BA-9874-E19102A8A8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatagridTest", "DatagridTest\DatagridTest.csproj", "{CBB83C98-756B-4693-A14F-D37455C63106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59DD6FF-1B36-4F57-BD18-E2EF4BAF3E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59DD6FF-1B36-4F57-BD18-E2EF4BAF3E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59DD6FF-1B36-4F57-BD18-E2EF4BAF3E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59DD6FF-1B36-4F57-BD18-E2EF4BAF3E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDF4786-CD96-42E3-A44D-9254F32B959C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDF4786-CD96-42E3-A44D-9254F32B959C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDF4786-CD96-42E3-A44D-9254F32B959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDF4786-CD96-42E3-A44D-9254F32B959C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FA9BC8-CF50-440D-B7C7-942C25C621D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FA9BC8-CF50-440D-B7C7-942C25C621D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FA9BC8-CF50-440D-B7C7-942C25C621D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FA9BC8-CF50-440D-B7C7-942C25C621D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B236E051-C911-4940-BCD5-2756E19D5580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B236E051-C911-4940-BCD5-2756E19D5580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B236E051-C911-4940-BCD5-2756E19D5580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B236E051-C911-4940-BCD5-2756E19D5580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFC13AD-9E1B-44CB-B72F-7A6EB3B2380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFC13AD-9E1B-44CB-B72F-7A6EB3B2380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFC13AD-9E1B-44CB-B72F-7A6EB3B2380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFC13AD-9E1B-44CB-B72F-7A6EB3B2380A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FCB3CF-6AC1-40BA-9874-E19102A8A8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FCB3CF-6AC1-40BA-9874-E19102A8A8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FCB3CF-6AC1-40BA-9874-E19102A8A8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FCB3CF-6AC1-40BA-9874-E19102A8A8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB83C98-756B-4693-A14F-D37455C63106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB83C98-756B-4693-A14F-D37455C63106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB83C98-756B-4693-A14F-D37455C63106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB83C98-756B-4693-A14F-D37455C63106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B897EB-D719-4E5C-B912-5112B0AC8579}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\bin\Debug\WpfINotify.exe.config
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\bin\Debug\WpfINotify.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\bin\Debug\WpfINotify.pdb
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\MainWindow.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\App.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify_MarkupCompile.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify_MarkupCompile.lref
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\MainWindow.baml
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.g.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.Properties.Resources.resources
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.exe
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.pdb
+C:\Users\Sagie\source\repos\WpfCommands\WpfINotify\obj\Debug\WpfINotify.csprojAssemblyReference.cache

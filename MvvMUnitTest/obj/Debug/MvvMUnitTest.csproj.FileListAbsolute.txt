@@ -1,0 +1,14 @@
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\MvvMUnitTest.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\MvvMUnitTest.pdb
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\obj\Debug\MvvMUnitTest.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\obj\Debug\MvvMUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\obj\Debug\MvvMUnitTest.csproj.CopyComplete
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\obj\Debug\MvvMUnitTest.dll
+C:\Users\Sagie\source\repos\WpfCommands\MvvMUnitTest\obj\Debug\MvvMUnitTest.pdb
